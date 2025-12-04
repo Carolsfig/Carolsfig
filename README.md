@@ -5,7 +5,7 @@
 <!-- <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/376819a7-23e7-43ac-97af-fe9219393123" /> -->
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/f8be6785-300c-48c7-ba2b-3893fad49033" />
 
-<h2 align="center">Oi! Eu sou a Carolina 👋 </h2>
+<h2 align="center">Hello World! Eu sou a Carolina 👋 </h2>
 <img align="right" width="90" alt="gif" src="https://github.com/user-attachments/assets/11aca757-eacb-4140-b075-8b4475923de2">
 
 💻 Apaixonada por tecnologia e em constante evolução como Desenvolvedora Full Stack.  
