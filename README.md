@@ -10,9 +10,14 @@
 <h2 align="center">Olá! Eu sou a Carolina | Hello! I am Carolina 👋 </h2>
 <!-- <img align="right" width="90" alt="gif" src="https://github.com/user-attachments/assets/11aca757-eacb-4140-b075-8b4475923de2"> -->
 
-💻 Apaixonada por tecnologia e em constante evolução como Desenvolvedora Full Stack. | Passionate about technology and constantly evolving as a Full Stack Developer.  
-🌱 Atualmente aprofundando conhecimento em desenvolvimento web, adoro desafios que me façam aprender algo novo. | Currently deepening my knowledge in web development, I enjoy challenges that push me to learn something new.  
-📚 Aqui compartilho meus projetos, estudos e minha caminhada no mundo da programação. Vamos nos conectar? 🚀 | Here I share my projects, studies, and my journey in the world of programming. Let’s connect! 🚀  
+💻 Apaixonada por tecnologia e em constante evolução como Desenvolvedora Full Stack.  
+🌱 Atualmente aprofundando conhecimento em desenvolvimento web, adoro desafios que me façam aprender algo novo.  
+📚 Aqui compartilho meus projetos, estudos e minha caminhada no mundo da programação. Vamos nos conectar? 🚀  
+
+*(english version)*  
+💻 Passionate about technology and constantly evolving as a Full Stack Developer.  
+🌱 Currently deepening my knowledge in web development, I enjoy challenges that push me to learn something new.  
+📚 Here I share my projects, studies, and my journey in the world of programming. Let’s connect! 🚀  
 
 <!-- <img align="right" width="80" alt="gif" src="https://github.com/user-attachments/assets/590cd316-c778-4cdb-9af8-6f377a2ed678"> -->
 
@@ -23,7 +28,7 @@
 
 
 
-###  Tecnologias e Ferramentas
+###  Tecnologias | Technologies
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
@@ -60,7 +65,7 @@
 </div>
 
 
-### Contato
+### Contato | Contact
 <div> 
   <a href = "mailto:carolinasfigueiredoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinafigueiredoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
