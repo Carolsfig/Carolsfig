@@ -3,14 +3,16 @@
 <!-- <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ef1f4768-7180-4c98-b53d-1da3d2c56bc7" /> -->
 
 <!-- <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/376819a7-23e7-43ac-97af-fe9219393123" /> -->
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/f8be6785-300c-48c7-ba2b-3893fad49033" />
+<!-- <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/f8be6785-300c-48c7-ba2b-3893fad49033" /> -->
 
-<h2 align="center">Hello World! Eu sou a Carolina 👋 </h2>
-<img align="right" width="90" alt="gif" src="https://github.com/user-attachments/assets/11aca757-eacb-4140-b075-8b4475923de2">
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ef22a357-3133-4ec1-927c-d91bda887672" />
 
-💻 Apaixonada por tecnologia e em constante evolução como Desenvolvedora Full Stack.  
-🌱 Atualmente aprofundando conhecimento em desenvolvimento web, adoro desafios que me façam aprender algo novo.  
-📚 Aqui compartilho meus projetos, estudos e minha caminhada no mundo da programação. Vamos nos conectar? 🚀  
+<h2 align="center">Olá! Eu sou a Carolina | Hello! I am Carolina 👋 </h2>
+<!-- <img align="right" width="90" alt="gif" src="https://github.com/user-attachments/assets/11aca757-eacb-4140-b075-8b4475923de2"> -->
+
+💻 Apaixonada por tecnologia e em constante evolução como Desenvolvedora Full Stack. | Passionate about technology and constantly evolving as a Full Stack Developer.  
+🌱 Atualmente aprofundando conhecimento em desenvolvimento web, adoro desafios que me façam aprender algo novo. | Currently deepening my knowledge in web development, I enjoy challenges that push me to learn something new.  
+📚 Aqui compartilho meus projetos, estudos e minha caminhada no mundo da programação. Vamos nos conectar? 🚀 | Here I share my projects, studies, and my journey in the world of programming. Let’s connect! 🚀  
 
 <!-- <img align="right" width="80" alt="gif" src="https://github.com/user-attachments/assets/590cd316-c778-4cdb-9af8-6f377a2ed678"> -->
 
@@ -52,8 +54,8 @@
 <!-- CSS3 -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<!-- C# -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<!-- C -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 </div>
 
